@@ -1,0 +1,19 @@
+# Model outputs and predictions
+pii_ner_assignment 2/pii_ner_assignment/out/
+out/
+*.pt
+*.bin
+*.jsonl
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# venv / conda env
+venv/
+.env/
+
+# System files
+.DS_Store
+
